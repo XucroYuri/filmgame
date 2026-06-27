@@ -177,3 +177,17 @@ filmgame/
 版权所有 © 2026 猫叔（[mmlong818](https://github.com/mmlong818)）
 
 本项目源代码可用于个人学习与非商业研究，但**任何形式的使用、修改或再分发，须在显著位置保留原始作者署名及本版权声明**。未经书面授权，不得将本软件或其衍生版本用于商业用途。
+
+## 支持项目
+
+<!-- SUPPORT-PROJECT:START -->
+如果这个项目对你有帮助，可以自愿赞赏支持后续维护。赞赏不是付费咨询服务，也不构成任何结果承诺；请不要在转账备注中填写姓名、手机号、证件号等敏感信息。
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/XucroYuri/lever-gaokao/main/docs/assets/sponsor/alipay-card.png" alt="支付宝赞助二维码" width="260">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/XucroYuri/lever-gaokao/main/docs/assets/sponsor/wechat-reward-card.png" alt="微信赞赏二维码" width="260">
+</p>
+
+<p align="center"><strong>时不我待，功不唐捐</strong></p>
+<!-- SUPPORT-PROJECT:END -->
